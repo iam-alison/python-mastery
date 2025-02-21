@@ -20,14 +20,24 @@
 
 ### **Commonly Used Keywords in Python**
 
-1. **Conditional Statements**: `if`, `elif`, `else`
-2. **Loops**: `for`, `while`
+1. **Conditional Statements**: `if`, `elif`, `else` 
+   - [Python If ... Else](https://www.w3schools.com/python/python_conditions.asp)
+2. **Loops**: `for`, `while` 
+   - [Python For Loops](https://www.w3schools.com/python/python_for_loops.asp)
 3. **Exception Handling**: `try`, `except`, `finally`, `raise`
-4. **Functions**: `def`, `return`
+   - [Python Try Except](https://www.w3schools.com/python/python_try_except.asp)
+   - [Python Built-in Exceptions](https://www.w3schools.com/python/python_ref_exceptions.asp)
+4. **Functions**: `def`, `return` 
+   - [Python return Keyword](https://www.w3schools.com/python/ref_keyword_return.asp)
+   - [Python Functions](https://www.w3schools.com/python/python_functions.asp)
 5. **Classes and Modules**: `class`, `import`, `from`
+   - [Python Classes and Objects](https://www.w3schools.com/python/python_classes.asp)
+   - [Python Modules](https://www.w3schools.com/python/python_modules.asp)
 6. **Boolean & Null Values**: `True`, `False`, `None`
 7. **Operators**: `and`, `or`, `not`
+   - [Python Operators](https://www.w3schools.com/python/python_operators.asp)
 8. **Scope & Variables**: `global`, `nonlocal`
+   - [Python - Global Variables](https://www.w3schools.com/python/python_variables_global.asp)
 
 ### **Importance of Keywords**
 
